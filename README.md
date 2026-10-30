@@ -1,4 +1,4 @@
-# Mapeo de inundaciones con Sentinel-1 (U-Net) — Pregunta 2
+# Mapeo de inundaciones con Sentinel-1 (U-Net)
 
 Redes Neuronales y Aprendizaje Profundo, UNI FIIS 2026-II (examen parcial). Segmentación píxel a píxel del agua de
 inundación a partir de radar Sentinel-1 (bandas VV y VH) con una **U-Net implementada desde cero en PyTorch**, sobre el
