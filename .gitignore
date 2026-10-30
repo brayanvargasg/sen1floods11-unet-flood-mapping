@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.DS_Store
+# datos y pesos (pesados; se regeneran con run_all.sh)
+data_processed/
+*.npy
+*.pt
+Sen1Floods11/
+# corridas de verificacion y pilotos
+runs_quick/
+eval_out_quick/
+runs_piloto/
